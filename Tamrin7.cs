@@ -2,7 +2,7 @@
 
 
 using System;
-namespace Tamrin5
+namespace Tamrin7
 {
     class test1
     {
