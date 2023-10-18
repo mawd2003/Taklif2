@@ -1,8 +1,8 @@
-﻿//be dast avardan y ba tabei bar hasb x shamel radikal va ghadr motlagh
+﻿//be dast avardan de terminan matris 3*3
 
 
 using System;
-namespace Tamrin5
+namespace Tamrin4
 {
 
     class test1
